@@ -1,0 +1,16 @@
+[
+{
+  "modid": "uuidoffline",
+  "name": "UUIDOffline",
+  "description": "Workaround for the UUID system for offline servers",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TehSomeLuigi"],
+  "credits": "The Forge, FML and MCP teams",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
